@@ -1,3 +1,15 @@
+
+## ▶ Open interactive simulators (live websites)
+
+| Platform | Launch simulator | Source |
+|---|---|---|
+| SCHOOL | **[▶ Launch SCHOOL Pricing Simulator](https://nbnayak88.github.io/coaching/SCHOOL/SCHOOL-Platform-Pricing-Strategy.html)** | [HTML source](./SCHOOL/SCHOOL-Platform-Pricing-Strategy.html) |
+| HUB | **[▶ Launch HUB Pricing Simulator](https://nbnayak88.github.io/coaching/HUB/HUB-Platform-Pricing-Strategy.html)** | [HTML source](./HUB/HUB-Platform-Pricing-Strategy.html) |
+
+> These links open interactive websites via GitHub Pages, not the GitHub HTML code viewer. Pages must be enabled under Settings → Pages (main branch, /(root)).
+
+---
+
 # SuccessLabs Academy — Coaching Platforms
 
 ## Platform workspaces
