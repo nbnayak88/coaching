@@ -14,14 +14,14 @@ https://nbnayak88.github.io/coaching/HUB/HUB-Platform-Pricing-Strategy.html
 
 ## Memberships and checkout links
 
-| Membership | Provisional simulator price | Checkout |
+| Membership | Annual price (supplied HUB listing) | Checkout |
 |---|---:|---|
-| Fast Start Bundle | ₹599 | [Checkout](https://hub.successlabsacademy.com/web/checkout/683eda8164fcba1cc4264521) |
-| Silver | ₹7,999 | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acddceafab478f3ec7968de) |
-| Gold | ₹39,999 | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acdde57b1df6a998599d4c1) |
-| Diamond | ₹79,999 | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acddf11e7fb7ec634b9b08a) |
+| Fast Start Bundle | ₹599/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/683eda8164fcba1cc4264521) |
+| Silver | ₹5,999/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acddceafab478f3ec7968de) |
+| Gold | ₹49,999/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acdde57b1df6a998599d4c1) |
+| Diamond | ₹1,49,999/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acddf11e7fb7ec634b9b08a) |
 
-**Important:** Checkout prices could not be reliably retrieved. The simulator starts with provisional price assumptions, which are editable directly in the page. Confirm actual pricing and GST treatment before using for forecasts.
+**Pricing source:** User-supplied HUB membership service listing, with all four prices marked yearly. The Fast Start offer is labeled lifetime Bronze membership while its billing cadence shows yearly; confirm the entitlement and renewal terms before advertising lifetime access. Prices remain editable for scenarios. Confirm GST treatment before using the forecast.
 
 ## Features
 
