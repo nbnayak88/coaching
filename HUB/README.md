@@ -1,3 +1,12 @@
+
+## ▶ Launch the live HUB simulator
+
+### **[▶ OPEN HUB PRICING SIMULATOR](https://nbnayak88.github.io/coaching/HUB/HUB-Platform-Pricing-Strategy.html)**
+
+This opens the working calculator as a website, not the HTML source-code viewer. If the website is unavailable, enable GitHub Pages in repository Settings → Pages using main and /(root).
+
+---
+
 # HUB Platform Pricing Strategy
 
 Interactive teal-and-green membership pricing and financial simulator for SuccessLabs Academy HUB.
