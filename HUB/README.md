@@ -25,7 +25,7 @@ https://nbnayak88.github.io/coaching/HUB/HUB-Platform-Pricing-Strategy.html
 
 | Membership | Annual price (supplied HUB listing) | Checkout |
 |---|---:|---|
-| Fast Start Bundle | ₹599/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/683eda8164fcba1cc4264521) |
+| Fast Start Bundle | ₹599/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/6ad47fd4ea8388c3fd2065a5) |
 | Silver | ₹5,999/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acddceafab478f3ec7968de) |
 | Gold | ₹49,999/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acdde57b1df6a998599d4c1) |
 | Diamond | ₹1,49,999/year | [Checkout](https://hub.successlabsacademy.com/web/checkout/6acddf11e7fb7ec634b9b08a) |
