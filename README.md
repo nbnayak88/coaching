@@ -1,29 +1,12 @@
-# SCHOOL Platform Pricing Strategy
+# SuccessLabs Academy — Coaching Platforms
 
-Interactive, self-contained business plan and financial simulator for SuccessLabs Academy's SCHOOL platform.
+## Platform workspaces
 
-**Target:** ₹6 crore annual company net profit after income tax (not gross revenue or personal take-home).
+- [SCHOOL](./SCHOOL/): SCHOOL pricing business plan and [interactive simulator](./SCHOOL/SCHOOL-Platform-Pricing-Strategy.html).
+- [HUB](./HUB/): separate HUB platform workspace.
 
-## Launch locally
-Open [index.html](./index.html) in any modern browser. No build step, packages, API keys or backend required.
+## How to open the simulator
 
-## Pricing (all end in 999)
+GitHub's file viewer does not run HTML. Download the HTML file and open it locally in a browser, or enable GitHub Pages under Settings → Pages (main branch, root folder). After deployment, visit https://nbnayak88.github.io/coaching/SCHOOL/SCHOOL-Platform-Pricing-Strategy.html .
 
-| Pass | Duration | Price (assumed GST-inclusive) |
-|---|---|---:|
-| Monthly Explorer | 30 days | ₹999 |
-| Quarterly Builder | 90 days | ₹2,999 |
-| Half-Year Accelerator | 180 days | ₹4,999 |
-| Annual Professional | 365 days | ₹7,999 |
-| Lifetime Founder Pass | Defined lifetime content access | ₹14,999 |
-
-## Simulator
-Interactive sliders for operating costs, effective income tax, GST, purchase mix and conversion rate. Includes tax waterfall, revenue distribution, monthly funnel and cost sensitivity.
-
-Base case: 30% operating expenses, 25.168% effective company tax, 18% GST and balanced purchase mix. Approximate target: ₹13.52 crore annual customer collections, ₹11.45 crore ex-GST sales, ₹6 crore after-tax company profit.
-
-## Publish as GitHub Pages
-Repository **Settings → Pages → Deploy from a branch → main → /(root)**. Once enabled, the site can be accessed at `https://nbnayak88.github.io/coaching/` (subject to Pages deployment).
-
-## Limitations
-All prices are planning recommendations. Tax rates, GST classification, business entity eligibility and revenue recognition must be verified with a qualified Indian chartered accountant. Lifetime access creates future fulfillment obligations. This is not a forecast or financial advice.
+Financial projections are illustrative. Validate Indian GST and income tax assumptions with a qualified accountant.
