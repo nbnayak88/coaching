@@ -12,6 +12,11 @@
 
 # SuccessLabs Academy — Coaching Platforms
 
+## Learning format taxonomy
+
+- [Learning Format Registry — bracketed three-letter codes](./learning-format/README.md)
+- [Additional learning formats (209+)](./learning-format/209-plus/README.md)
+
 ## Platform workspaces
 
 - [SCHOOL](./SCHOOL/): SCHOOL pricing business plan and [interactive simulator](./SCHOOL/SCHOOL-Platform-Pricing-Strategy.html).
