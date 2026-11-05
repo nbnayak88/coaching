@@ -126,13 +126,13 @@
 2. **Practice evidence:** Every applied format should end with an observable artifact, decision log, execution record, rubric score, or behavior demonstration.
 3. **Cross-domain reuse:** Keep the format code constant when switching from HR to CX, Finance, Procurement, SCM, BTM, or Leadership & Identity Transformation.
 4. **Composition:** A `BCP` bootcamp may contain `LAB`, `TST`, `RPL`, and `REV` activities; these are distinct activity types, not duplicate course titles.
-5. **Governance:** Preserve existing 101–150 codes. Reserve new 151–208 codes after stakeholder review. Letter-code uniqueness should be validated in the master registry before adding future entries.
+5. **Governance:** Preserve all permanent numeric IDs `101–208` and their existing three-letter codes. Validate ID continuity, letter-code uniqueness, and all required fields before publishing any registry revision.
 6. **Duration:** These are design estimates, not certification, regulatory, or platform requirements. For extended formats, distinguish calendar duration from actual contact hours.
 7. **Identifiers:** Example `GICS01-HR07-BCP-105-FND-001` combines sector, theme, format mnemonic, numeric code, level, and edition.
 
-## Existing coaching learning-format folders
+## Learning-format folder naming reference
 
-| Existing folder | Learning format | Code | Numeric ID |
+| Folder name | Learning format | Code | Numeric ID |
 |---|---|---|---|
 | `bootcamp` | Bootcamp [BCP] | BCP | 105 |
 | `challenge-21-day` | Challenge (21-Day) [CHL] | CHL | 107 |
@@ -143,4 +143,4 @@
 | `webinar` | Webinar [WBN] | WBN | 121 |
 | `workshop` | Workshop [WKS] | WKS | 104 |
 
-These are display labels; existing directory paths remain unchanged. Challenge duration is a program attribute, not a separate format code.
+These are naming references, not links to existing directories. The `learning-format/` directory currently contains this README only. Challenge duration is a program attribute, not a separate format code.
