@@ -6,6 +6,8 @@
 
 A clean revision cycle that connects learning with experiments, learner feedback and practical results. Previous learning and accomplishments remain valid; unchecked items indicate work in this new cycle, not a claim that I have never completed them.
 
+**Level key: D = Diamond, G = Gold, S = Silver.**
+
 ## Four learning folders
 
 | Order | Stage | Course/activity entries | Checklist |
@@ -72,7 +74,7 @@ Add future discoveries here before deciding whether they belong in the current c
 
 ## Source and interpretation
 
-The four supplied mentor screenshots provide the stage names, course titles, order, D/G labels and the One Crore Challenge instruction to watch three videos per week. Course contents, live availability, URLs, certification requirements and award criteria have not been independently verified. Application prompts and review routines are personal additions for this journey, not official ILH curriculum descriptions.
+The four supplied mentor screenshots provide the stage names, course titles, order, membership level codes and the One Crore Challenge instruction to watch three videos per week. Course contents, live availability, URLs, certification requirements and award criteria have not been independently verified. Application prompts and review routines are personal additions for this journey, not official ILH curriculum descriptions.
 
 ## Reflection
 
