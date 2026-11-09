@@ -14,13 +14,61 @@ Allocate weekly: 8h targeted reading, 8h experiments, 4h curriculum production, 
 |---|---|---|---|
 | 30 days | All 618 catalogued and assigned; 48 titles synthesized | Baseline assessment; four working demonstrations | 4 course blueprints, 48 squeezes |
 | 60 days | 100 titles synthesized | Eight demonstrations; two connected business scenarios | 8 blueprints; 4 pilot modules taught |
-| 90 days | 156 titles synthesized | Twelve demonstrations; one end-to-end capstone | 12 track blueprints; 12 tested modules |
+| 90 days | 156 titles synthesized | Twelve demonstrations; one end-to-end capstone | 12 stream-aligned course blueprints; 12 tested modules |
 | 6 months | 312 titles synthesized | 24 demonstrations; three capstones; delayed recall checks | 12 courses at beta; 312 squeezes |
 | 1 year | 618 entries reconciled; synthesis of all acquired titles | 48 demonstrations; six capstones; independent review | 12 revised courses, all available-title squeezes and source mapping |
 
 Targets are cumulative, proposed throughput targets. An unavailable title cannot be marked read or converted; use an authorized substitute to teach its learning outcome while keeping the original entry unresolved.
 
-## Twelve course tracks
+
+## Architecture and business-domain alignment
+
+## Architecture streams
+
+| Stream | Learning lens |
+|---|---|
+| Enterprise | Enterprise direction, portfolio and transformation |
+| Business | Capabilities, value streams and processes |
+| Data | Information models, quality and analytics |
+| Application | Application behavior, engineering and extensibility |
+| Technology | Platforms, runtimes and technical services |
+| AI | AI models, agents and evaluation |
+| Security | Identity, access, controls and protection |
+| UI-UX | Experience, interaction and usability |
+| Infrastructure | Compute, hosting, networks and deployment |
+| Integration | Interfaces, APIs, events and interoperability |
+| Domain | Specialized business-domain solution architecture |
+| Industry | Sector-specific constraints and operating models |
+
+## Seven business domains
+
+| Tag | Domain | Weekly connection |
+|---|---|---|
+| HR | Human Resources | Workforce Monday |
+| CX | Customer Experience | Revenue Tuesday |
+| FIN | Finance | Finance Wednesday |
+| PRC | Procurement | Procurement Thursday |
+| SCM | Supply Chain Management | Supply Chain Friday |
+| BTM | Business Transformation Management | Strategy Saturday |
+| LIT | Leadership & Identity Transformation | Source Sunday: leadership and identity reflection |
+
+## Primary domain coverage
+
+| Domain | Books |
+|---|---:|
+| Human Resources | 25 |
+| Customer Experience | 26 |
+| Finance | 98 |
+| Procurement | 23 |
+| Supply Chain Management | 104 |
+| Business Transformation Management | 342 |
+| Leadership & Identity Transformation | 0 |
+
+[Browse all 618 tagged books](book-tags/README.md) · [Download the link-free tag table](book-tags/BOOK-TAGS.csv)
+
+Architecture streams describe how a subject is viewed; business domains describe the business outcome. Curriculum bundles below package learning and are separate from the 12 architecture streams. Book tags are provisional title-based assignments, with primary and supporting lenses. Leadership & Identity Transformation has no direct book match in this inventory; it remains a learning and reflection layer.
+
+## Curriculum bundles
 | ID | Course | Practical outcome |
 |---|---|---|
 | C01 | Enterprise Transformation and Architecture | Capability map, roadmap and architecture decisions |
@@ -98,7 +146,7 @@ Suggested pass threshold: 80% delayed retrieval plus a complete independent lab,
 Drive: private source PDFs and the acquisition register.
 GitHub: original curriculum plans, lab instructions, rubrics and changelog; no book PDFs.
 Notion: weekly priorities, questions, mastery evidence and course release status.
-Book register fields: ID, source row/title/link, actual file, access/copy status, edition, pages, primary course, secondary courses, priority, selected chapters, squeeze status, lab evidence, mastery gate and next review.
+Public book register fields: stable book ID, title, primary/supporting architecture streams, primary/supporting business domains, mapping basis, and review status. Private acquisition references stay outside the public catalogue.
 Course register fields: course ID, audience, outcomes, prerequisites, modules, source IDs, lab evidence, reviewer, version and release status.
 Use proposed mappings until contents are inspected. No automatic sync or recurring task is configured by this plan.
 
@@ -111,6 +159,3 @@ Use proposed mappings until contents are inspected. No automatic sync or recurri
 - Row 200: ABAP RESTful Programming Model — NO PAID.
 - Row 207: Introducing Financial Reporting with SAP S/4HANA — NO PAID.
 - Row 282: Profit Center Accounting with SAP S/4HANA — no link.
-
-Source: https://docs.google.com/spreadsheets/d/1smb3iF5TbHrf9CHzbLx0ORD7MVWtwB8HY_BzS_j7XZ4/edit
-Destination: https://drive.google.com/drive/folders/1b295NBnr-JkHgzbSocSrUDD7jL3CI2T2
