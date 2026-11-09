@@ -26,3 +26,7 @@
 GitHub's file viewer does not run HTML. Download the HTML file and open it locally in a browser, or enable GitHub Pages under Settings → Pages (main branch, root folder). After deployment, visit https://nbnayak88.github.io/coaching/SCHOOL/SCHOOL-Platform-Pricing-Strategy.html .
 
 Financial projections are illustrative. Validate Indian GST and income tax assumptions with a qualified accountant.
+
+## My coach journey
+
+- [ILH Lab — course revision and application checklists](./ILH%20Lab/README.md): Starters, Freedom Finishers, Hall of Fame and Crore Champions, with a weekly review and evidence of application.
