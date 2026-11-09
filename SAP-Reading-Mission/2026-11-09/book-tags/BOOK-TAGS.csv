@@ -1,0 +1,619 @@
+Book ID,Title,Primary architecture stream,Supporting architecture streams,Primary business domain,Supporting business domains,Mapping basis
+B001,ABAP Performance Tuning,Application,—,BTM,—,Provisional title-based
+B002,SAP Interface Programming,Integration,Application,BTM,—,Provisional title-based
+B003,Surviving an SAP Audit,Security,—,BTM,—,Provisional title-based
+B004,Enhancing Supplier Relationship Management Using SAP SRM,Domain,Application; Business,PRC,—,Provisional title-based
+B005,Implementing and Configuring SAP MII,Domain,Application; Business,SCM,—,Provisional title-based
+B006,SAP Change and Transport Management,Domain,Application; Business,SCM,—,Provisional title-based
+B007,ABAP Cookbook,Application,—,BTM,—,Provisional title-based
+B008,Practical Guide to SAP NetWeaver PI - Development,Technology,Application,BTM,—,Provisional title-based
+B009,Authorizations in SAP Software: Design and Configuration,Security,—,BTM,—,Provisional title-based
+B010,BRFplus—Business Rule Management for ABAP Applications,Application,—,BTM,—,Provisional title-based
+B011,SAP Query Reporting—Practical Guide,Data,—,BTM,—,Provisional title-based
+B012,ABAP Development for Materials Management in SAP: User Exits and BAdIs,Application,Domain; Business,PRC,—,Provisional title-based
+B013,Maximizing SAP ERP Financials Accounts Receivable,Domain,Application; Business,FIN,—,Provisional title-based
+B014,Maximizing Cash Management with SAP ERP Financials,Domain,Application; Business,FIN,—,Provisional title-based
+B015,The SAP General Ledger,Domain,Application; Business,FIN,—,Provisional title-based
+B016,Data Modeling in SAP NetWeaver BW,Data,Technology,BTM,—,Provisional title-based
+B017,ABAP Development for Financial Accounting: Custom Enhancements,Application,Domain; Business,FIN,—,Provisional title-based
+B018,SAP ERP Financials: Configuration and Design,Domain,Application; Business,FIN,—,Provisional title-based
+B019,Financial Accounting with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B020,SAP Interactive Forms by Adobe,Application,—,BTM,—,Provisional title-based
+B021,Variant Configuration with SAP ERP,Domain,Application; Business,SCM,—,Provisional title-based
+B022,Variant Configuration with SAP,Domain,Application; Business,SCM,—,Provisional title-based
+B023,Account Determination in SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B024,Production Variance Analysis in SAP Controlling,Domain,Application; Business,FIN,SCM,Provisional title-based
+B025,SAP NetWeaver AS ABAP—System Administration,Technology,Application,BTM,—,Provisional title-based
+B026,Sales and Distribution with SAP,Domain,Application; Business,CX,—,Provisional title-based
+B027,Authorizations in SAP,Security,—,BTM,—,Provisional title-based
+B028,Customizing Materials Management Processes in SAP ERP,Domain,Application; Business,PRC,—,Provisional title-based
+B029,ABAP Development for Sales and Distribution in SAP,Application,Domain; Business,CX,—,Provisional title-based
+B030,Practical SAP US Payroll,Domain,Application; Business,HR,—,Provisional title-based
+B031,SAP ERP HCM Processes and Forms,Domain,Application; Business,HR,—,Provisional title-based
+B032,Web Dynpro ABAP,UI-UX,Application,BTM,—,Provisional title-based
+B033,The SAP Blue Book,Application,—,BTM,—,Review title ambiguity
+B034,The SAP Green Book,Application,—,BTM,—,Review title ambiguity
+B035,Controlling-Profitability Analysis with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B036,Integrating Materials Management with Financial Accounting in SAP,Integration,Domain; Application; Business,PRC,FIN,Provisional title-based
+B037,Creating Dashboards with SAP BusinessObjects,Data,—,BTM,—,Provisional title-based
+B038,ITSM and ChaRM in SAP Solution Manager,Technology,—,BTM,—,Provisional title-based
+B039,Discover Logistics with SAP,Domain,Application; Business,SCM,—,Provisional title-based
+B040,"Implementing SAP Governance, Risk, and Compliance",Security,—,BTM,—,Provisional title-based
+B041,SAP Treasury and Risk Management,Domain,Application; Business,FIN,—,Provisional title-based
+B042,Function Modules in ABAP,Application,—,BTM,—,Provisional title-based
+B043,Architecting EDI with SAP IDocs,Integration,—,BTM,—,Provisional title-based
+B044,Universe Design with SAP BusinessObjects BI,Data,—,BTM,—,Provisional title-based
+B045,Monitoring and Operations with SAP Solution Manager,Technology,—,BTM,—,Provisional title-based
+B046,SAP CRM: Technical Principles and Programming,Application,Domain; Business,CX,—,Provisional title-based
+B047,SAP BW: Administration and Performance Optimization,Data,Technology,BTM,—,Provisional title-based
+B048,Practical Workflow for SAP,Application,—,BTM,—,Provisional title-based
+B049,Configuring SAP ERP Plant Maintenance,Domain,Application; Business,SCM,—,Provisional title-based
+B050,SAP HANA Administration,Technology,—,BTM,—,Provisional title-based
+B051,Self-Services with SAP ERP HCM,Domain,Application; Business,HR,—,Provisional title-based
+B052,The SAP Project,Enterprise,—,BTM,—,Provisional title-based
+B053,Enterprise Information Management with SAP,Application,—,BTM,—,Provisional title-based
+B054,SAP BusinessObjects BI System Administration,Data,Technology,BTM,—,Provisional title-based
+B055,Controlling with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B056,Upgrading SAP,Technology,—,BTM,—,Provisional title-based
+B057,SAP ERP HCM: Technical Principles and Programming,Application,Domain; Business,HR,—,Provisional title-based
+B058,SAP CATS,Domain,Application; Business,HR,—,Provisional title-based
+B059,Project Builder in SAP Project System—Practical Guide,Business,—,BTM,—,Provisional title-based
+B060,Implementing SAP BW on SAP HANA,Data,Technology,BTM,—,Provisional title-based
+B061,SAP Administration—Practical Guide,Technology,—,BTM,—,Provisional title-based
+B062,Creating SAP HANA Information Views,Data,Technology,BTM,—,Provisional title-based
+B063,Creating an SAP Workflow with Workflow Builder,Application,—,BTM,—,Provisional title-based
+B064,PlanViz: Improving SAP HANA Performance,Technology,—,BTM,—,Provisional title-based
+B065,Object-Oriented Programming with ABAP Objects,Application,—,BTM,—,Provisional title-based
+B066,SAP EWM Architecture and Programming,Application,Domain; Integration; Business,SCM,—,Provisional title-based
+B067,Materials Planning with SAP,Domain,Application; Business,SCM,—,Provisional title-based
+B068,Production Planning with SAP APO,Domain,Application; Business,SCM,—,Provisional title-based
+B069,SAP BW 7.4—Practical Guide,Data,—,BTM,—,Provisional title-based
+B070,Exposure Management 2.0 in SAP Treasury and Risk Management,Domain,Application; Business,FIN,—,Provisional title-based
+B071,Warehouse Management with SAP EWM,Domain,Application; Business,SCM,—,Provisional title-based
+B072,Actual Costing with the Material Ledger in SAP ERP,Domain,Application; Business,FIN,—,Provisional title-based
+B073,SAP ASE 16 / Sybase ASE Administration,Technology,—,BTM,—,Provisional title-based
+B074,JavaScript for ABAP Developers,Application,—,BTM,—,Provisional title-based
+B075,SAP General Ledger: Preparing for a New G/L Migration,Domain,Application; Business,FIN,—,Provisional title-based
+B076,Using Script Logic and FOX Code in SAP BPC,Data,Application; Domain; Business,FIN,—,Provisional title-based
+B077,Serializing Interfaces in SAP AIF,Integration,—,BTM,—,Provisional title-based
+B078,Transaction Manager in SAP Treasury and Risk Management,Domain,Application; Business,FIN,—,Provisional title-based
+B079,RegEx in ABAP: Pattern Matching with Regular Expressions,Application,—,BTM,—,Provisional title-based
+B080,Archiving SAP Data—Practical Guide,Data,—,BTM,—,Provisional title-based
+B081,Configuring Funds Management for SAP Public Sector Management,Industry,Domain; Application; Business,FIN,—,Provisional title-based
+B082,Quality Management with SAP ERP,Domain,Application; Business,SCM,—,Provisional title-based
+B083,Configuring Sales and Distribution in SAP ERP,Domain,Application; Business,CX,—,Provisional title-based
+B084,Implementing SAP Manufacturing Execution,Domain,Application; Business,SCM,—,Provisional title-based
+B085,SAP CRM,Domain,Application; Business,CX,—,Provisional title-based
+B086,SAP Data Services,Data,—,BTM,—,Provisional title-based
+B087,Inventory Management and Optimization in SAP ERP,Domain,Application; Business,SCM,—,Provisional title-based
+B088,Time Management with SAP ERP HCM,Domain,Application; Business,HR,—,Provisional title-based
+B089,SAP Transaction Codes,Application,—,BTM,—,Review title ambiguity
+B090,Demand and Supply Planning with SAP APO,Domain,Application; Business,SCM,—,Provisional title-based
+B091,Hands On with SAPUI5 and the SAP Web IDE,UI-UX,—,BTM,—,Provisional title-based
+B092,Data Provisioning and Cleansing with SAP HANA SDI and SAP HANA SDQ,Data,Technology,BTM,—,Provisional title-based
+B093,SAP Solution Manager for SAP S/4HANA,Technology,—,BTM,—,Provisional title-based
+B094,Smart Data Access: Data Virtualization in SAP HANA,Data,Technology,BTM,—,Provisional title-based
+B095,Running MRP on SAP HANA,Domain,Technology; Application; Business,SCM,—,Provisional title-based
+B096,Organizational Management in SAP ERP HCM,Domain,Application; Business,HR,—,Provisional title-based
+B097,Pricing and the Condition Technique in SAP ERP,Domain,Application; Business,CX,—,Provisional title-based
+B098,Using SAP LT Replication Server (SLT),Integration,—,BTM,—,Provisional title-based
+B099,Project Management with SAP Project System,Business,—,BTM,—,Provisional title-based
+B100,Warehouse Management with SAP ERP: Functionality and Technical Configuration,Domain,Application; Business,SCM,—,Provisional title-based
+B101,Incident Management with SAP EHS Management,Domain,Application; Business,SCM,—,Provisional title-based
+B102,Product Cost Controlling with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B103,Maintenance Planning with SAP Plant Maintenance,Domain,Application; Business,SCM,—,Provisional title-based
+B104,Invoice Verification with SAP: Payment Blocks in GR/IR Accounts,Domain,Application; Business,PRC,FIN,Provisional title-based
+B105,Purchasing with SAP ERP Materials Management,Domain,Application; Business,PRC,—,Provisional title-based
+B106,Configuring Kanban in SAP ERP MM and PP,Domain,Application; Business,SCM,—,Provisional title-based
+B107,S&OP with SAP ERP Production Planning,Domain,Application; Business,SCM,—,Provisional title-based
+B108,Automatic Payment Program in SAP Accounts Payable: Running and Troubleshooting,Domain,Application; Business,FIN,—,Provisional title-based
+B109,Operating SAP in the Cloud,Infrastructure,—,BTM,—,Provisional title-based
+B110,Managing FI-CO Master Data in SAP,Data,—,BTM,—,Provisional title-based
+B111,Configuring Dispute Management with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B112,Design Patterns in ABAP Objects,Application,—,BTM,—,Provisional title-based
+B113,Configuring Controlling in SAP ERP,Domain,Application; Business,FIN,—,Provisional title-based
+B114,Using SAP ERP,Application,—,BTM,—,Provisional title-based
+B115,Reporting with CO-PA,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B116,Financial Close in SAP ERP Controlling,Domain,Application; Business,FIN,—,Provisional title-based
+B117,Data Migration with SAP,Data,—,BTM,—,Provisional title-based
+B118,SAP Business One: Business User Guide,Application,—,BTM,—,Provisional title-based
+B119,Production Planning and Control with SAP ERP,Domain,Application; Business,SCM,—,Provisional title-based
+B120,Materials Management with SAP ERP: Functionality and Technical Configuration,Domain,Application; Business,PRC,—,Provisional title-based
+B121,Building Planning Applications with SAP BW Integrated Planning,Integration,Data,BTM,—,Provisional title-based
+B122,The Payroll Control Center for SAP ERP HCM and SAP SuccessFactors,Domain,Application; Business,HR,—,Provisional title-based
+B123,Implementing SAP Fiori Security,Security,UI-UX,BTM,—,Provisional title-based
+B124,"SAP SuccessFactors Admin Center: User Management, Security, and Data Maintenance",Security,Data; Domain; Application; Business,HR,SCM,Provisional title-based
+B125,SAP Revenue Accounting and Reporting and IFRS 15,Data,Domain; Application; Business,FIN,CX,Provisional title-based
+B126,SAP Fiori and SAPUI5,UI-UX,—,BTM,—,Provisional title-based
+B127,SAP Fiori Implementation and Development,UI-UX,Application,BTM,—,Provisional title-based
+B128,Plant Maintenance with SAP: Business User Guide,Domain,Application; Business,SCM,—,Provisional title-based
+B129,SAP Process Orchestration,Integration,—,BTM,—,Provisional title-based
+B130,BOPF: Business Object Development,Application,—,BTM,—,Provisional title-based
+B131,Product Development with SAP PLM,Application,Domain; Business,SCM,—,Provisional title-based
+B132,GDPR and SAP,Security,—,BTM,—,Provisional title-based
+B133,Sales and Distribution in SAP ERP: Business User Guide,Domain,Application; Business,CX,—,Provisional title-based
+B134,SAP Solution Manager—Practical Guide,Technology,—,BTM,—,Provisional title-based
+B135,SAP BW 7.4 on SAP HANA: Data Modeling,Data,Technology,BTM,—,Provisional title-based
+B136,Procurement with SAP MM: Business User Guide,Domain,Application; Business,PRC,—,Provisional title-based
+B137,Cloud Connector for SAP Cloud Platform: How-to Guide,Integration,Technology,BTM,—,Provisional title-based
+B138,BRFplus Output Type Management in SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B139,Investment Management with SAP ERP,Domain,Application; Business,FIN,—,Provisional title-based
+B140,ABAP Unit: Writing and Executing Unit Tests,Application,—,BTM,—,Provisional title-based
+B141,SAP BusinessObjects Web Intelligence,Data,—,BTM,—,Provisional title-based
+B142,Concur: Travel and Expense Management with SAP,Domain,Application; Business,HR,—,Provisional title-based
+B143,Business Planning and Consolidation with SAP BPC: Business User Guide,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B144,Introducing Financial Risk Management with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B145,SAP Predictive Analytics,AI,Data,BTM,—,Provisional title-based
+B146,SAP SuccessFactors Recruiting and Onboarding,Domain,Application; Business,HR,—,Provisional title-based
+B147,SAP SuccessFactors Employee Central,Domain,Application; Business,HR,—,Provisional title-based
+B148,Setting Up and Running Order-Based Planning with SAP IBP,Domain,Application; Business,SCM,—,Provisional title-based
+B149,Introducing Advanced Variant Configuration (AVC) with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B150,ABAP 7.5 Certification Guide,Application,—,BTM,—,Provisional title-based
+B151,Implementing SAP Business Planning and Consolidation,Application,—,BTM,—,Provisional title-based
+B152,Extending SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B153,Controlling with SAP ERP: Business User Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B154,SAP: An Introduction,Application,—,BTM,—,Provisional title-based
+B155,ABAP Programming Model for SAP Fiori,UI-UX,Application,BTM,—,Provisional title-based
+B156,SAP Fiori Launchpad,UI-UX,—,BTM,—,Provisional title-based
+B157,Lease Accounting with SAP: IFRS 16 and ASC 842,Domain,Application; Business,FIN,—,Provisional title-based
+B158,Configuring and Running Demand Sensing with SAP IBP,Domain,Application; Business,SCM,—,Provisional title-based
+B159,Introducing Transportation Management in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B160,Introducing Portfolio and Project Management (PPM) with SAP S/4HANA,Business,—,BTM,—,Provisional title-based
+B161,Introducing SAP Yard Logistics,Domain,Application; Business,SCM,—,Provisional title-based
+B162,SAP Performance Optimization Guide,Technology,—,BTM,—,Provisional title-based
+B163,"SAP Lumira, Discovery Edition",Data,—,BTM,—,Provisional title-based
+B164,"SAP Lumira, Designer Edition",Data,—,BTM,—,Provisional title-based
+B165,SAP S/4HANA Cloud,Application,—,BTM,—,Provisional title-based
+B166,Design Thinking with SAP,Business,—,BTM,—,Provisional title-based
+B167,"SAP Process Orchestration: Monitoring Messages, Channels, and Processes in SAP PO",Integration,—,BTM,—,Provisional title-based
+B168,"Introducing Governance, Risk, and Compliance (GRC) in SAP S/4HANA",Security,—,BTM,—,Provisional title-based
+B169,SAP Cloud Platform Mobile Services: Application Development and Operations,Technology,Application,BTM,—,Provisional title-based
+B170,SAP Integrated Business Planning,Integration,Domain; Application; Business,SCM,—,Provisional title-based
+B171,Financial Accounting in SAP ERP: Business User Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B172,Configuring Financial Accounting in SAP ERP,Domain,Application; Business,FIN,—,Provisional title-based
+B173,SAP Gateway and OData,Integration,—,BTM,—,Provisional title-based
+B174,Introducing Central Procurement with SAP S/4HANA,Domain,Application; Business,PRC,—,Provisional title-based
+B175,SAP HANA XSA,Technology,—,BTM,—,Provisional title-based
+B176,Implementing SAP Global Trade Services,Domain,Application; Business,SCM,—,Provisional title-based
+B177,Introducing SAP Master Data Governance (SAP MDG) on SAP S/4HANA,Data,—,BTM,—,Provisional title-based
+B178,Interface Monitoring and Error Handling with SAP AIF,Integration,—,BTM,—,Provisional title-based
+B179,Sales and Operations Planning with SAP IBP,Domain,Application; Business,SCM,CX,Provisional title-based
+B180,Preparing Your SAP ERP System for an SAP S/4HANA Migration,Application,—,BTM,—,Provisional title-based
+B181,Data Provisioning for SAP HANA,Data,Technology,BTM,—,Provisional title-based
+B182,Using SAP Screen Personas,UI-UX,—,BTM,—,Provisional title-based
+B183,SAP System Security Guide,Security,—,BTM,—,Provisional title-based
+B184,Introducing SAP Bank Communication Management in SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B185,SAP Sales Cloud: Sales Force Automation with SAP C/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B186,SAP SuccessFactors Learning,Domain,Application; Business,HR,—,Provisional title-based
+B187,Introducing SAP Jam for SAP SuccessFactors,Domain,Application; Business,HR,—,Provisional title-based
+B188,SAP Cloud Platform: Cloud-Native Development,Technology,Application,BTM,—,Provisional title-based
+B189,SAP Commerce Cloud: Commerce with SAP C/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B190,Transportation Management with SAP,Domain,Application; Business,SCM,—,Provisional title-based
+B191,Logistics with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B192,Inventory Planning and Optimization with SAP IBP,Domain,Application; Business,SCM,—,Provisional title-based
+B193,SQLScript for SAP HANA,Data,Technology,BTM,—,Provisional title-based
+B194,Material Ledger in SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B195,Business Partners and Customer-Vendor Integration (CVI) in SAP S/4HANA,Integration,Domain; Application; Business,PRC,CX,Provisional title-based
+B196,Core Data Services for ABAP,Data,Application,BTM,—,Provisional title-based
+B197,SAP S/4HANA Management Accounting Certification Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B198,Inventory Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B199,ABAP RESTful Programming Model,Application,—,BTM,—,Provisional title-based
+B200,Configuring Sales in SAP S/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B201,Quality Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B202,SAP API Management,Integration,—,BTM,—,Provisional title-based
+B203,Financial Accounting with SAP S/4HANA: Business User Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B204,Introducing International Trade Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B205,SAP and Chatbots: Development and Integration,AI,Integration; Application,BTM,—,Provisional title-based
+B206,Introducing Financial Reporting with SAP S/4HANA,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B207,SAP Conversational AI: Developing and Training Chatbots,AI,Application,BTM,—,Provisional title-based
+B208,Introducing SAP BPC for SAP S/4HANA,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B209,SAP Fiori: UX Design for Developers,UI-UX,Application,BTM,—,Provisional title-based
+B210,SAP Fiori and SAP S/4HANA: Large-Scale Application Implementation,UI-UX,—,BTM,—,Provisional title-based
+B211,Introducing Product Costing with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B212,Introducing Blockchain with SAP Leonardo,Technology,—,BTM,—,Review title ambiguity
+B213,Introducing Financial Planning and Analysis with SAP Analytics Cloud,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B214,SAP HANA 2.0 Certification Guide: Application Associate Exam,Technology,—,BTM,—,Provisional title-based
+B215,SAP S/4HANA Financial Accounting Certification Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B216,SAP Solution Manager 7.2 System Configuration Certification Guide,Technology,—,BTM,—,Provisional title-based
+B217,Security for SAP Cloud Systems,Security,—,BTM,—,Provisional title-based
+B218,ABAP 7.5 CERTIFICATION GUIDE,Application,—,BTM,—,Provisional title-based
+B219,Test-Driven Development with ABAP Objects,Application,—,BTM,—,Provisional title-based
+B220,Data Integration for SAP IBP,Integration,Data; Domain; Application; Business,SCM,—,Provisional title-based
+B221,Complete ABAP,Application,—,BTM,—,Provisional title-based
+B222,Developing WRICEF Objects for SAP S/4HANA Cloud,Application,—,BTM,—,Provisional title-based
+B223,ABAP to the Future,Application,—,BTM,—,Provisional title-based
+B224,SAP S/4HANA Finance,Domain,Application; Business,FIN,—,Provisional title-based
+B225,SAP S/4HANA Finance: The Reference Guide to What’s New,Domain,Application; Business,FIN,—,Provisional title-based
+B226,SAP Master Data Governance,Data,—,BTM,—,Provisional title-based
+B227,SAP HANA 2.0,Technology,—,BTM,—,Provisional title-based
+B228,Data Modeling for SAP HANA 2.0,Data,Technology,BTM,—,Provisional title-based
+B229,SAP Billing and Revenue Innovation Management,Domain,Application; Business,CX,—,Provisional title-based
+B230,SAP Cloud Platform Certification Guide,Technology,—,BTM,—,Provisional title-based
+B231,Introducing SAP Data Hub,Data,—,BTM,—,Provisional title-based
+B232,Introducing Advanced ATP (aATP) in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B233,Introducing Credit Management with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B234,"Configuring SAP S/4HANA Finance""",Domain,Application; Business,FIN,—,Provisional title-based
+B235,SAP SuccessFactors,Domain,Application; Business,HR,—,Provisional title-based
+B236,Introducing SAP SuccessFactors Employee Central Payroll,Domain,Application; Business,HR,—,Provisional title-based
+B237,SAP Leonardo,Technology,—,BTM,—,Review title ambiguity
+B238,SAP C/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B239,Production Planning with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B240,Introducing Extended Warehouse Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B241,PP-DS with SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B242,SAP on Microsoft Azure,Infrastructure,—,BTM,—,Provisional title-based
+B243,SAP BW/4HANA 2.0,Data,—,BTM,—,Provisional title-based
+B244,SAP Cloud Platform Integration,Integration,Technology,BTM,—,Provisional title-based
+B245,SAP Analysis for Microsoft Office—Practical Guide,Application,—,BTM,—,Provisional title-based
+B246,SAP HANA 2.0 Certification Guide: Technology Associate Exam,Technology,—,BTM,—,Provisional title-based
+B247,SAP S/4HANA Sourcing and Procurement Certification Guide,Domain,Application; Business,PRC,—,Provisional title-based
+B248,Extending SAP BPC Financial Planning with SAP Analytics Cloud,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B249,Profitability Analysis with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B250,Introducing SAP CPQ with SAP Customer Experience,Domain,Application; Business,CX,—,Provisional title-based
+B251,Introducing DDMRP with SAP IBP,Domain,Application; Business,SCM,—,Provisional title-based
+B252,Clean ABAP,Application,—,BTM,—,Provisional title-based
+B253,Cash Management with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B254,Machine Learning with SAP,AI,—,BTM,—,Provisional title-based
+B255,Refactoring Legacy ABAP Code,Application,—,BTM,—,Provisional title-based
+B256,Plant Maintenance with SAP S/4HANA: Business User Guide,Domain,Application; Business,SCM,—,Provisional title-based
+B257,SAP S/4HANA Architecture,Enterprise,—,BTM,—,Provisional title-based
+B258,Customizing SAP S/4HANA with SAP Cloud Platform,Technology,—,BTM,—,Provisional title-based
+B259,Group Reporting with SAP S/4HANA,Data,—,BTM,—,Provisional title-based
+B260,SAP Fiori Certification Guide,UI-UX,—,BTM,—,Provisional title-based
+B261,Introducing Financial Close with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B262,Introducing SAP Digital Payments for SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B263,Introducing Stock Room Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B264,Implementing Machine Learning with SAP S/4HANA,AI,—,BTM,—,Provisional title-based
+B265,Document Management with SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B266,Introducing the SAP S/4HANA Migration Cockpit,Application,—,BTM,—,Provisional title-based
+B267,Introducing SAP Digital Manufacturing Cloud for Industry 4.0,Industry,Domain; Application; Business,SCM,—,Provisional title-based
+B268,SAP Information Lifecycle Management,Application,—,BTM,—,Provisional title-based
+B269,Data Segmentation Using K-Means and SAP HANA PAL,AI,Data; Technology,BTM,—,Provisional title-based
+B270,Material Requirements Planning with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B271,Document Splitting with SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B272,SAP S/4HANA System Conversion Guide,Application,—,BTM,—,Provisional title-based
+B273,Developing Applications with the SAP Cloud Application Programming Model,Application,—,BTM,—,Provisional title-based
+B274,Migrating from Costing-Based to Account-Based CO-PA in SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B275,Predictive Accounting with SAP S/4HANA,AI,Domain; Application; Business,FIN,—,Provisional title-based
+B276,Sourcing and Procurement with SAP S/4HANA,Domain,Application; Business,PRC,—,Provisional title-based
+B277,Developing Portal Sites with SAP Cloud Platform Portal,UI-UX,Technology; Application,BTM,—,Provisional title-based
+B278,Developing Groovy Scripts for SAP Cloud Platform Integration,Integration,Technology; Application,BTM,—,Provisional title-based
+B279,Introducing SAP Data Warehouse Cloud,Data,Domain; Application; Business,SCM,—,Provisional title-based
+B280,Introducing SAP Intelligent Robotic Process Automation,Application,—,BTM,—,Provisional title-based
+B281,Profit Center Accounting with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B282,Configuring Batch Management in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B283,Testing SAPUI5 Applications,UI-UX,—,BTM,—,Provisional title-based
+B284,Mapping with BRFplus Decision Tables and SAP AIF,Integration,Application,BTM,—,Provisional title-based
+B285,Implementing SAP S/4HANA Finance,Domain,Application; Business,FIN,—,Provisional title-based
+B286,SAP HANA 2.0 Security Guide,Security,Technology,BTM,—,Provisional title-based
+B287,Testing SAP APIs: Strategy and Execution,Integration,—,BTM,—,Provisional title-based
+B288,Defining Your SAP S/4HANA Implementation Approach,Enterprise,—,BTM,—,Provisional title-based
+B289,Introducing SAP Model Company for SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B290,Materials Management with SAP S/4HANA,Domain,Application; Business,PRC,—,Provisional title-based
+B291,Warehouse Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B292,Introducing Rebate and Settlement Management with SAP S/4HANA,Domain,Application; Business,CX,FIN,Provisional title-based
+B293,SAPUI5,UI-UX,—,BTM,—,Provisional title-based
+B294,Introducing the Universal Journal in SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B295,Internet of Things with SAP,Technology,—,BTM,—,Provisional title-based
+B296,Configuring Plant Maintenance in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B297,Asset Accounting with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B298,Introducing the Technical Foundation of SAP S/4HANA,Technology,—,BTM,—,Provisional title-based
+B299,SAP HANA Data Lifecycle Management: Dynamic Tiering and Data Aging,Data,Technology,BTM,—,Provisional title-based
+B300,SAP Activate,Enterprise,Business,BTM,—,Provisional title-based
+B301,Integrating SAP SuccessFactors,Integration,Domain; Application; Business,HR,—,Provisional title-based
+B302,Central Finance and SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B303,SAP Analytics Cloud,Data,—,BTM,—,Provisional title-based
+B304,Introducing GR/IR Reconciliation with Machine Learning in SAP S/4HANA,AI,Domain; Application; Business,FIN,—,Provisional title-based
+B305,Introducing SAP SuccessFactors Onboarding 2.0,Domain,Application; Business,HR,—,Provisional title-based
+B306,Migrating Custom Code to SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B307,Migrating Data to SAP S/4HANA Cloud,Data,—,BTM,—,Provisional title-based
+B308,Implementing SAP Fiori 3 Security,Security,UI-UX,BTM,—,Provisional title-based
+B309,Introducing the New Model in SAP Analytics Cloud,Data,—,BTM,—,Provisional title-based
+B310,SAP S/4HANA Sales Certification Guide,Domain,Application; Business,CX,—,Provisional title-based
+B311,SAP SuccessFactors Employee Central,Domain,Application; Business,HR,—,Provisional title-based
+B312,Configuring SAP S/4HANA Finance,Domain,Application; Business,FIN,—,Provisional title-based
+B313,Production Planning with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B314,SQLScript for SAP HANA,Data,Technology,BTM,—,Provisional title-based
+B315,Introducing Commissions Management with SAP,Domain,Application; Business,CX,—,Provisional title-based
+B316,Designing Dashboards with SAP Analytics Cloud,Data,—,BTM,—,Provisional title-based
+B317,SAP Integration Suite,Integration,—,BTM,—,Provisional title-based
+B318,Event-Driven Architecture with SAP,Integration,—,BTM,—,Provisional title-based
+B319,Introducing Project Management with Project System in SAP S/4HANA,Business,—,BTM,—,Provisional title-based
+B320,Introducing Predictive Maintenance with SAP Predictive Asset Insights,AI,Domain; Application; Business,SCM,—,Provisional title-based
+B321,JavaScript for ABAP Developers,Application,—,BTM,—,Provisional title-based
+B322,SAP S/4HANA Business Process Integration Certification Guide,Integration,Business,BTM,—,Provisional title-based
+B323,SAP S/4HANA Financial Accounting Certification Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B324,SAP S/4HANA Cloud,Application,—,BTM,—,Provisional title-based
+B325,Sales and Distribution with SAP S/4HANA: Business User Guide,Domain,Application; Business,CX,—,Provisional title-based
+B326,Controlling with SAP S/4HANA: Business User Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B327,SAP Integrated Business Planning,Integration,Domain; Application; Business,SCM,—,Provisional title-based
+B328,Integrated TM and EWM in SAP S/4HANA,Integration,Domain; Application; Business,SCM,—,Provisional title-based
+B329,Introducing Employee Experience Management (EXM) with Qualtrics and SAP SuccessFactors,Domain,Application; Business,HR,—,Provisional title-based
+B330,Migrating SAP S/4HANA Workloads to Hyperscalers: Planning and Design,Infrastructure,—,BTM,—,Provisional title-based
+B331,SAP Ariba,Domain,Application; Business,PRC,—,Provisional title-based
+B332,SAP Enterprise Messaging,Integration,—,BTM,—,Provisional title-based
+B333,Introducing SAP HANA Cloud,Technology,—,BTM,—,Provisional title-based
+B334,Introducing Demand-Driven Replenishment (DDMRP) in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B335,Introducing SAP S/4HANA Service,Application,—,BTM,—,Provisional title-based
+B336,Introducing Statistical Forecasting with SAP IBP for Demand,Domain,Application; Business,SCM,—,Provisional title-based
+B337,ABAP in the Cloud,Application,—,BTM,—,Provisional title-based
+B338,Introducing the Material Master in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B339,Introducing Central Payments with Central Finance and SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B340,Introducing Treasury and Risk Management (TRM) with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B341,User Management for SAP IBP,Domain,Application; Business,SCM,—,Provisional title-based
+B342,Digital Process Automation with SAP Workflow Management,Application,—,BTM,—,Provisional title-based
+B343,ABAP Development for SAP HANA,Technology,Application,BTM,—,Provisional title-based
+B344,SAP S/4HANA Embedded Analytics,Data,—,BTM,—,Provisional title-based
+B345,SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B346,Migrating to SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B347,SAP Activate Project Management Certification Guide,Enterprise,Business,BTM,—,Provisional title-based
+B348,Introducing HR Reporting with SAP SuccessFactors People Analytics,Data,Domain; Application; Business,HR,—,Provisional title-based
+B349,Introducing Intercompany Matching and Reconciliation (ICMR) with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B350,Introducing Accruals Management with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B351,SAP Data Intelligence,Data,—,BTM,—,Provisional title-based
+B352,Core Data Services for ABAP,Data,Application,BTM,—,Provisional title-based
+B353,Test Data Classes for ABAP,Data,Application,BTM,—,Provisional title-based
+B354,Introducing Advanced Compliance Reporting with SAP S/4HANA,Data,—,BTM,—,Provisional title-based
+B355,SAP HANA 2.0 Administration,Technology,—,BTM,—,Provisional title-based
+B356,ABAP to the Future,Application,—,BTM,—,Provisional title-based
+B357,"Introducing SAP Global Trade Services, Edition for SAP HANA",Domain,Technology; Application; Business,SCM,—,Provisional title-based
+B358,SAP Fieldglass- Functionality and Implementation,Domain,Application; Business,PRC,—,Provisional title-based
+B359,Introducing Revenue Accounting and Reporting with SAP S/4HANA,Data,Domain; Application; Business,FIN,CX,Provisional title-based
+B360,Introducing Operational Planning with SAP IBP for Response and Supply,Domain,Application; Business,SCM,—,Provisional title-based
+B361,Using SAP S/4HANA An Introduction for Business Users,Application,—,BTM,—,Provisional title-based
+B362,SAP Interface Management Guide,Integration,—,BTM,—,Provisional title-based
+B363,SAP Business One: Business User Guide,Application,—,BTM,—,Provisional title-based
+B364,SAP Analytics Cloud,Data,—,BTM,—,Provisional title-based
+B365,Configuring SAP Fiori Launchpad,UI-UX,—,BTM,—,Provisional title-based
+B366,Designing Testable ABAP Classes and Packages,Application,—,BTM,—,Provisional title-based
+B367,Introducing SAP Logistics Business Network,Domain,Application; Business,SCM,—,Provisional title-based
+B368,Cost Flows in SAP S/4HANA Finance: Allocations and Settlements,Domain,Application; Business,FIN,—,Provisional title-based
+B369,Configuring Sales in SAP S/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B370,SAP S/4HANA Production Planning and Manufacturing Certification Guide,Domain,Application; Business,SCM,—,Provisional title-based
+B371,SAP SuccessFactors Employee Central Payroll,Domain,Application; Business,HR,—,Provisional title-based
+B372,SAP S/4HANA Production Planning and Manufacturing Certification Guide,Domain,Application; Business,SCM,—,Provisional title-based
+B373,Hands On with SAP Business Application Studio,Application,—,BTM,—,Provisional title-based
+B374,Security for SAP Analytics Cloud: Authorizations and Provisioning,Security,Data,BTM,—,Provisional title-based
+B375,Introducing SAP Cloud ALM for Implementations,Technology,—,BTM,—,Provisional title-based
+B376,Financial Reporting with SAP S/4HANA,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B377,Authorizations in SAP S/4HANA and SAP Fiori,Security,UI-UX,BTM,—,Provisional title-based
+B378,Introducing SAP Cloud ALM for Implementations,Technology,—,BTM,—,Provisional title-based
+B379,Developing Secure Cloud Applications with SAP BTP,Security,Technology; Application,BTM,—,Provisional title-based
+B380,Introducing Event Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B381,Configuring SAP S/4HANA Finance,Domain,Application; Business,FIN,—,Provisional title-based
+B382,Receivables Management with SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B383,Business Partners in SAP S/4HANA-The Comprehensive Guide to Customer-Vendor Integration,Integration,Domain; Application; Business,PRC,CX,Provisional title-based
+B384,Logistics with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B385,SAP Activate,Enterprise,Business,BTM,—,Provisional title-based
+B386,SAP Business ByDesign: Business User Guide,Application,—,BTM,—,Provisional title-based
+B387,SAP Interactive Forms by Adobe,Application,—,BTM,—,Provisional title-based
+B388,SAP BUSINESS TECHNOLOGY PLATFORM,Technology,—,BTM,—,Provisional title-based
+B389,SAP S/4HANA Cloud An Introduction,Application,—,BTM,—,Provisional title-based
+B390,Introducing Predictive Material and Resource Planning (pMRP) with SAP S/4HANA,AI,Domain; Application; Business,SCM,—,Provisional title-based
+B391,Integrating SAP Ariba with SAP S/4HANA,Integration,Domain; Application; Business,PRC,—,Provisional title-based
+B392,SAP Analytics Cloud: Financial Planning and Analysis,Data,Domain; Application; Business,FIN,—,Provisional title-based
+B393,"Introducing Environment, Health, and Safety (EHS) Management with SAP S/4HANA",Domain,Application; Business,SCM,—,Provisional title-based
+B394,Warehouse Management with SAP S/4HANA Embedded and Decentralized EWM,Domain,Application; Business,SCM,—,Provisional title-based
+B395,Logging for SAP S/4HANA Security,Security,—,BTM,—,Provisional title-based
+B396,Kanban with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B397,Clean SAPUI5,UI-UX,—,BTM,—,Provisional title-based
+B398,Parallel Processing with ABAP Objects: Implementation and Testing,Application,—,BTM,—,Provisional title-based
+B399,Migrating Data with the SAP S/4HANA Migration Cockpit,Data,—,BTM,—,Provisional title-based
+B400,Node.js,Application,—,BTM,—,Provisional title-based
+B401,JavaScript,Application,—,BTM,—,Provisional title-based
+B402,SAP Billing and Revenue Innovation Management,Domain,Application; Business,CX,—,Provisional title-based
+B403,Demand Planning with SAP IBP,Domain,Application; Business,SCM,—,Provisional title-based
+B404,Tax with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B405,Funds Management for the Public Sector with SAP,Industry,Domain; Application; Business,FIN,—,Provisional title-based
+B406,Settlement Management with SAP S/4HANA,Domain,Application; Business,CX,FIN,Provisional title-based
+B407,Complete ABAP,Application,—,BTM,—,Provisional title-based
+B408,Python 3,Application,—,BTM,—,Provisional title-based
+B409,SAP Master Data Governance,Data,—,BTM,—,Provisional title-based
+B410,Git,Application,—,BTM,—,Provisional title-based
+B411,ABAP RESTful Application Programming Model,Application,—,BTM,—,Provisional title-based
+B412,Java,Application,—,BTM,—,Provisional title-based
+B413,SAP IBP for Supply Chain Certification Guide,Domain,Application; Business,SCM,—,Provisional title-based
+B414,SAP Extension Suite Certification Guide,Application,—,BTM,—,Provisional title-based
+B415,sap s4hana cloud : implementation with sap activate,Enterprise,Business,BTM,—,Provisional title-based
+B416,Security and Authorizations for SAP Business Technology Platform,Security,Technology,BTM,—,Provisional title-based
+B417,Visual Studio Code for SAP,Application,—,BTM,—,Provisional title-based
+B418,Reporting with SAP S/4HANA: Business User Guide,Data,—,BTM,—,Provisional title-based
+B419,Material Ledger in SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B420,Hands On with SAP Build Apps,Application,—,BTM,—,Provisional title-based
+B421,Introducing Production Engineering and Operations (PEO) with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B422,Application Development with SAP Business Technology Platform,Technology,Application,BTM,—,Provisional title-based
+B423,Vendor Invoice Management with SAP,Domain,Application; Business,PRC,—,Provisional title-based
+B424,Integrating Sales and Distribution in SAP S/4HANA,Integration,Domain; Application; Business,CX,—,Provisional title-based
+B425,Auditing SAP S/4HANA,Security,—,BTM,—,Provisional title-based
+B426,SAP Fiori: Implementation and Development,UI-UX,Application,BTM,—,Provisional title-based
+B427,Business as Unusual with SAP,Enterprise,Business,BTM,—,Review title ambiguity
+B428,SAP S/4HANA Finance,Domain,Application; Business,FIN,—,Provisional title-based
+B429,Implementing SAP MII,Domain,Application; Business,SCM,—,Provisional title-based
+B430,Production Variance Analysis in SAP S/4HANA,Domain,Application; Business,FIN,SCM,Provisional title-based
+B431,Docker,Infrastructure,—,BTM,—,Provisional title-based
+B432,Introducing Event-Based Revenue Recognition (EBRR) with SAP S/4HANA,Domain,Application; Business,FIN,CX,Provisional title-based
+B433,UI Data Protection Masking for SAP S/4HANA,Security,Data,BTM,—,Provisional title-based
+B434,Sales and Operations Planning with SAP IBP,Domain,Application; Business,SCM,CX,Provisional title-based
+B435,Available-to-Promise with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B436,Machine Learning with Intelligent Scenario Lifecycle Management (ISLM),AI,—,BTM,—,Provisional title-based
+B437,SAP Fiori Elements,UI-UX,—,BTM,—,Provisional title-based
+B438,Introducing SAP S/4HANA Cloud for Advanced Financial Closing (AFC),Domain,Application; Business,FIN,—,Provisional title-based
+B439,Introducing Asset Intelligence and Collaboration with SAP Business Network,Data,Domain; Application; Business,SCM,—,Provisional title-based
+B440,Introducing Business Process Transformation with SAP Signavio,Business,—,BTM,—,Provisional title-based
+B441,Transportation Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B442,Cloud Connector for SAP,Integration,—,BTM,—,Provisional title-based
+B443,HTML and CSS,UI-UX,—,BTM,—,Provisional title-based
+B444,Project System in SAP S/4HANA,Business,—,BTM,—,Provisional title-based
+B445,General Ledger Accounting with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B446,Introducing Time Management with SAP SuccessFactors,Domain,Application; Business,HR,—,Provisional title-based
+B447,SAP S/4HANA Architecture,Enterprise,—,BTM,—,Provisional title-based
+B448,SAP Access Control,Security,—,BTM,—,Provisional title-based
+B449,Hacking and Security,Security,—,BTM,—,Provisional title-based
+B450,DevOps with SAP,Technology,—,BTM,—,Provisional title-based
+B451,PP/DS with SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B452,EWM with SAP S/4HANA: Architecture and Programming,Application,Domain; Integration; Business,SCM,—,Provisional title-based
+B453,SAP Integration Suite Certification Guide,Integration,—,BTM,—,Provisional title-based
+B454,Full Stack Web Development,Application,—,BTM,—,Provisional title-based
+B455,SAP Analytics Cloud Performance Optimization Guide,Data,Technology,BTM,—,Provisional title-based
+B456,Financial Accounting with SAP S/4HANA: Business User Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B457,Operational Data Provisioning with SAP BW/4HANA,Data,—,BTM,—,Provisional title-based
+B458,Introducing Advanced Intercompany Sales and Stock Transfer with SAP S/4HANA,Domain,Application; Business,SCM,CX,Provisional title-based
+B459,Introducing Transfer Pricing with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B460,Extended Warehouse Management with SAP S/4HANA Certification Guide,Domain,Application; Business,SCM,—,Provisional title-based
+B461,Full Stack Development with SAP,Application,—,BTM,—,Provisional title-based
+B462,Introducing Universal Parallel Accounting with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B463,Spring Boot 3 and Spring Framework 6,Application,—,BTM,—,Provisional title-based
+B464,React,UI-UX,—,BTM,—,Provisional title-based
+B465,SAP S/4HANA Administration,Technology,—,BTM,—,Provisional title-based
+B466,Core Data Services for ABAP,Data,Application,BTM,—,Provisional title-based
+B467,Advanced Variant Configuration with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B468,Integrating EWM in SAP S/4HANA,Integration,Domain; Application; Business,SCM,—,Provisional title-based
+B469,Revenue Accounting and Reporting with SAP S/4HANA,Data,Domain; Application; Business,FIN,CX,Provisional title-based
+B470,Workflow for SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B471,Introducing SAP Profitability and Performance Management (PaPM),Domain,Application; Business,FIN,—,Provisional title-based
+B472,Introducing Supply and Demand Segmentation in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B473,Industry 4.0 with SAP,Industry,Domain; Application; Business,SCM,—,Provisional title-based
+B474,Sourcing and Procurement with SAP S/4HANA,Domain,Application; Business,PRC,—,Provisional title-based
+B475,SAP Gateway and OData,Integration,—,BTM,—,Provisional title-based
+B476,Integrating Third-Party Logistics with SAP S/4HANA,Integration,Domain; Application; Business,SCM,—,Provisional title-based
+B477,Migrating to SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B478,Usability and User Experience Design,UI-UX,—,BTM,—,Provisional title-based
+B479,Introducing SAP PLM in the Cloud,Domain,Application; Business,SCM,—,Provisional title-based
+B480,Scripting,Application,—,BTM,—,Provisional title-based
+B481,SAP Landscape Transformation Replication Server,Integration,—,BTM,—,Provisional title-based
+B482,SAP Analytics Cloud,Data,—,BTM,—,Provisional title-based
+B483,Introducing SAP Datasphere,Data,—,BTM,—,Provisional title-based
+B484,Introducing Advanced Shipping and Receiving (ASR) in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B485,SAP Process Control,Security,—,BTM,—,Provisional title-based
+B486,Python for Engineering and Scientific Computing,Application,—,BTM,—,Provisional title-based
+B487,SAP Analytics Cloud: Predictive Analytics,AI,Data,BTM,—,Provisional title-based
+B488,HR Reporting with Stories in SAP SuccessFactors People Analytics,Data,Domain; Application; Business,HR,—,Provisional title-based
+B489,Implementing SAP Enterprise Threat Detection,Security,—,BTM,—,Provisional title-based
+B490,Implementing SAP Global Trade Services,Domain,Application; Business,SCM,—,Provisional title-based
+B491,Materials Management with SAP S/4HANA,Domain,Application; Business,PRC,—,Provisional title-based
+B492,Account Determination in SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B493,Introducing Adavanced Returns Management With SAP S/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B494,Hands On With abapGit,Application,—,BTM,—,Provisional title-based
+B495,Data Migration for SAP,Data,—,BTM,—,Provisional title-based
+B496,Linux,Infrastructure,—,BTM,—,Provisional title-based
+B497,SAP on AWS,Infrastructure,—,BTM,—,Provisional title-based
+B498,SAP Build,Application,—,BTM,—,Provisional title-based
+B499,SAP Signavio,Business,—,BTM,—,Provisional title-based
+B500,Software Architecture Fundamentals,Application,—,BTM,—,Provisional title-based
+B501,Introducing Intercompany Matching and Reconciliation (ICMR) with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B502,Introducing Transportation Management in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B503,SAP Cloud ALM,Technology,—,BTM,—,Provisional title-based
+B504,Material Requirements Planning with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B505,Developing AI Applications,AI,Application,BTM,—,Provisional title-based
+B506,Cloud Integration with SAP Integration Suite,Integration,—,BTM,—,Provisional title-based
+B507,Introducing Lean Services Procurement with SAP S/4HANA,Domain,Application; Business,PRC,—,Provisional title-based
+B508,Product Cost Controlling with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B509,Migrating to SAP BW/4HANA,Data,—,BTM,—,Provisional title-based
+B510,Getting Started with Python,Application,—,BTM,—,Provisional title-based
+B511,Introducing SAP Digital Manufacturing,Domain,Application; Business,SCM,—,Provisional title-based
+B512,SAP Business Technology Platform,Technology,—,BTM,—,Provisional title-based
+B513,Warehouse Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B514,Blockchain,Technology,—,BTM,—,Provisional title-based
+B515,Introducing Failure Mode and Effects Analysis (FMEA) with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B516,Kubernetes,Infrastructure,—,BTM,—,Provisional title-based
+B517,Group Reporting with SAP S/4HANA,Data,—,BTM,—,Provisional title-based
+B518,Modern Cryptography,Security,—,BTM,—,Provisional title-based
+B519,Introducing RISE with SAP,Enterprise,—,BTM,—,Provisional title-based
+B520,Introducing SAP Cloud Identity Access Governance (IAG),Security,—,BTM,—,Provisional title-based
+B521,Architecting EDI for SAP S/4HANA,Integration,—,BTM,—,Provisional title-based
+B522,Configuring Plant Maintenance in SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B523,C++   The Comprehensive Guide,Application,—,BTM,—,Provisional title-based
+B524,Implementing Central Finance with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B525,Developing Event-Driven Integrations with SAP BTP,Integration,Technology; Application,BTM,—,Provisional title-based
+B526,Application Development with SAP Analytics Cloud,Data,Application,BTM,—,Provisional title-based
+B527,Getting Started with JavaScript,Application,—,BTM,—,Provisional title-based
+B528,Quality Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B529,"Enterprise Architecture with SAP: Planning, Management, and Transformation",Enterprise,—,BTM,—,Provisional title-based
+B530,Introducing Intelligent Finance with AI from SAP,AI,Domain; Application; Business,FIN,—,Provisional title-based
+B531,Migrating from Neo to Cloud Foundry for SAP BTP,Infrastructure,Technology,BTM,—,Provisional title-based
+B532,Configuring SAP S/4HANA Finance,Domain,Application; Business,FIN,—,Provisional title-based
+B533,SAP Activate,Enterprise,Business,BTM,—,Provisional title-based
+B534,DevOps,Technology,—,BTM,—,Provisional title-based
+B535,SAP S/4HANA An Introduction,Application,—,BTM,—,Provisional title-based
+B536,Treasury and Risk Management with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B537,Introducing CRM with SAP S\4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B538,Integrating Materials Management in SAP S\4HANA,Integration,Domain; Application; Business,PRC,—,Provisional title-based
+B539,Cybersecurity for SAP,Security,—,BTM,—,Provisional title-based
+B540,SAP Activate Project Management Certification Guide,Enterprise,Business,BTM,—,Provisional title-based
+B541,SQL,Data,—,BTM,—,Provisional title-based
+B542,Introducing the Payroll Control Center for SAP,Domain,Application; Business,HR,—,Provisional title-based
+B543,Introducing Extended Service Parts Planning with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B544,AI-Assisted Coding,AI,Application,BTM,—,Provisional title-based
+B545,PHP and MySQL,Data,Application,BTM,—,Provisional title-based
+B546,SAP Build Process Automation,Application,—,BTM,—,Provisional title-based
+B547,Kitting and Value-Added Services with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B548,SAPUI5,UI-UX,—,BTM,—,Provisional title-based
+B549,Rust,Application,—,BTM,—,Provisional title-based
+B550,Introducing Intelligent Asset Accounting with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B551,Controlling with SAP S/4HANA: Business User Guide,Domain,Application; Business,FIN,—,Provisional title-based
+B552,Programming Neural Networks with Python,AI,Application,BTM,—,Provisional title-based
+B553,Generative AI with Python,AI,Application,BTM,—,Provisional title-based
+B554,ABAP An Introduction,Application,—,BTM,—,Provisional title-based
+B555,ABAP RESTful Application Programming Model,Application,—,BTM,—,Provisional title-based
+B556,Linux Command Reference,Infrastructure,—,BTM,—,Provisional title-based
+B557,Introducing AI with SAP Integrated Business Planning,AI,Integration; Domain; Application; Business,SCM,—,Provisional title-based
+B558,Production Planning with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B559,Ansible,Infrastructure,—,BTM,—,Provisional title-based
+B560,Introducing Business Process Scheduling (BPS) with SAP S/4HANA,Business,—,BTM,—,Provisional title-based
+B561,Catalog Management with SAP Ariba Catalog,Domain,Application; Business,PRC,—,Provisional title-based
+B562,Google Analytics 4,Data,Domain; Application; Business,CX,—,Provisional title-based
+B563,Payment and Bank Communication Management with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B564,Introducing Carbon Accounting for Sustainability with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B565,Margin Analysis with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B566,Configuring SAP Business Technology Platform,Technology,—,BTM,—,Provisional title-based
+B567,Introducing Situation Handling with SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B568,SAP Fiori Apps for SAP S/4HANA,UI-UX,—,BTM,—,Provisional title-based
+B569,Inventory Management with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B570,Software Architecture and Design,Application,—,BTM,—,Provisional title-based
+B571,Automated Testing and Test-Driven Development for SAP Integration Suite Migration,Application,Integration,BTM,—,Provisional title-based
+B572,Keras 3,AI,—,BTM,—,Provisional title-based
+B573,SAP Document and Reporting Compliance,Data,—,BTM,—,Provisional title-based
+B574,ABAP Cookbook,Application,—,BTM,—,Provisional title-based
+B575,Implementing SAP Code Vulnerability Analyzer in SAP BTP,Security,Technology; Application,BTM,—,Provisional title-based
+B576,Excel,Data,—,BTM,—,Provisional title-based
+B577,Developing Apps with SAP Build Code and Generative AI,AI,Application,BTM,—,Provisional title-based
+B578,Swift,Application,—,BTM,—,Provisional title-based
+B579,SAP Cloud Integration Cookbook,Integration,—,BTM,—,Provisional title-based
+B580,Trading Partner Management in SAP Integration Suite,Integration,—,BTM,—,Provisional title-based
+B581,Object-Oriented Programming with ABAP Objects,Application,—,BTM,—,Provisional title-based
+B582,Machines That Think,AI,—,BTM,—,Review title ambiguity
+B583,SAP Cloud Integration for Data Services,Integration,Data,BTM,—,Provisional title-based
+B584,Graph in SAP Integration Suite,Integration,—,BTM,—,Provisional title-based
+B585,Applied Machine Learning,AI,—,BTM,—,Provisional title-based
+B586,PyTorch,AI,—,BTM,—,Provisional title-based
+B587,Hacking Hardware,Security,—,BTM,—,Provisional title-based
+B588,Pricing and the Condition Technique with SAP S/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B589,Data Management and Analytics with SAP BTP,Data,Technology,BTM,—,Provisional title-based
+B590,Financial Close with SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B591,SAP System Security,Security,—,BTM,—,Provisional title-based
+B592,Developer Extensibility in ABAP RESTful Application Programming Model,Application,—,BTM,—,Provisional title-based
+B593,Plant Maintenance with SAP: Business User Guide,Domain,Application; Business,SCM,—,Provisional title-based
+B594,Flexible Sales Document Numbering with SAP S/4HANA,Domain,Application; Business,CX,—,Provisional title-based
+B595,Capacity Planning with SAP S/4HANA,Domain,Application; Business,SCM,—,Provisional title-based
+B596,Cyber Threat Intelligence,Security,Data,BTM,—,Provisional title-based
+B597,Ethical Hacking,Security,—,BTM,—,Provisional title-based
+B598,Transitioning from Central Finance to SAP S/4HANA,Domain,Application; Business,FIN,—,Provisional title-based
+B599,Application Management Services for SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B600,Digital Payments with SAP,Domain,Application; Business,FIN,—,Provisional title-based
+B601,Migrating to SAP S/4HANA,Application,—,BTM,—,Provisional title-based
+B602,Introducing SAP Logistics Management,Domain,Application; Business,SCM,—,Provisional title-based
+B603,Advanced Valuation with SAP S/4HANA Finance,Domain,Application; Business,FIN,—,Provisional title-based
+B604,Intelligent Finance with SAP AI -Based Automation and Custom Solutions,AI,Domain; Application; Business,FIN,—,Provisional title-based
+B605,Migrating from SAP Process Orchestration to SAP Integration Suite,Integration,—,BTM,—,Provisional title-based
+B606,SAP LeanIX,Enterprise,—,BTM,—,Provisional title-based
+B607,Python 3,Application,—,BTM,—,Provisional title-based
+B608,"Integrating Architecture, Processes, and AI on SAP BTP",AI,Integration; Technology,BTM,—,Provisional title-based
+B609,The Autonomous Enterprise with SAP,Enterprise,AI,BTM,—,Provisional title-based
+B610,JavaScript,Application,—,BTM,—,Provisional title-based
+B611,Clean Core for SAP,Enterprise,—,BTM,—,Provisional title-based
+B612,Application Development with SAP Business Technology Platform,Technology,Application,BTM,—,Provisional title-based
+B613,Python for AI and Data Analysis,AI,Data; Application,BTM,—,Provisional title-based
+B614,Agentic AI with SAP,AI,—,BTM,—,Provisional title-based
+B615,SAP Business Data Cloud,Data,—,BTM,—,Provisional title-based
+B616,Advanced Intercompany Sales and Stock Transfer with SAP S/4HANA,Domain,Application; Business,SCM,CX,Provisional title-based
+B617,Selective Data Transition to SAP S/4HANA,Data,—,BTM,—,Provisional title-based
+B618,Universal Allocations with SAP S/4HANA,Application,—,BTM,—,Provisional title-based
