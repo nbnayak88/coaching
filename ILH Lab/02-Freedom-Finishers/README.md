@@ -4,11 +4,11 @@
 
 Personal coach journey revision checklist · Fresh cycle started 9 November 2026.
 
-Course names and order follow the supplied mentor screenshots. D/G are retained exactly as source labels; confirm their meaning and current access inside ILH. A dash means no label was shown. These application prompts are personal practice suggestions, not official course requirements or award criteria.
+Course names and order follow the supplied mentor screenshots. **Level key: D = Diamond, G = Gold, S = Silver.** A dash means the level has not yet been specified. These application prompts are personal practice suggestions, not official course requirements or award criteria.
 
 ## Course inventory
 
-| ID | Course / activity | Screenshot label | Current course URL | Revision date |
+| ID | Course / activity | Level | Current course URL | Revision date |
 |---|---|---|---|---|
 | FF-01 | Hyper-focused HOF Formula | D | To add | — |
 | FF-02 | Ads Scaling Formula | D | To add | — |
